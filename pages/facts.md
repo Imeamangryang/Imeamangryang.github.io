@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Interesting Facts
+title: C++
 category: facts
 permalink: /facts
 ---

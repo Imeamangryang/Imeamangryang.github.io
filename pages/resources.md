@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Learning Resources
+title: Python
 category: resources
 permalink: /resources
 ---
