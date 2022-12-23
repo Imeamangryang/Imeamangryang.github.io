@@ -1,6 +1,6 @@
 ---
 layout: category
-title: test
-category: testcategory
-permalink: /testurl
+title: Algorithm
+category: algorithm
+permalink: /algorithm
 ---

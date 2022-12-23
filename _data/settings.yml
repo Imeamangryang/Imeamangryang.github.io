@@ -7,11 +7,11 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'C++',  url: 'facts'}
-- {name: 'Unreal Engine', url: 'resources'}
-- {name: 'Minecraft',       url: 'sample-posts'}
-- {name: 'Interesting',      url: 'documentation'}
-- {name: 'Algorithm',      url: 'testurl'}
+- {name: 'C++',  url: 'c++'}
+- {name: 'Unreal Engine', url: 'unrealengine'}
+- {name: 'Minecraft',       url: 'minecraft'}
+- {name: 'Interesting',      url: 'interesting'}
+- {name: 'Algorithm',      url: 'algorithm'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
