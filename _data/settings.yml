@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'C++',  url: 'c++'}
+- {name: 'C++',  url: 'C++'}
 - {name: 'Unreal Engine', url: 'unrealengine'}
 - {name: 'Minecraft',       url: 'minecraft'}
 - {name: 'Interesting',      url: 'interesting'}

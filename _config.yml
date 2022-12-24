@@ -13,6 +13,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           "이매망량"
 description:	       "Github Blog"
 author:              "Imeamangryang"
+futrue: true
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
