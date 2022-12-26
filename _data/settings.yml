@@ -12,7 +12,6 @@ menu:
 - {name: 'Minecraft',       url: 'minecraft'}
 - {name: 'Interesting',      url: 'interesting'}
 - {name: 'Algorithm',      url: 'algorithm'}
-- {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
