@@ -10,8 +10,9 @@ menu:
 - {name: 'C++',  url: 'C++'}
 - {name: 'Unreal Engine', url: 'unrealengine'}
 - {name: 'Minecraft',       url: 'minecraft'}
-- {name: 'Interesting',      url: 'interesting'}
 - {name: 'Algorithm',      url: 'algorithm'}
+- {name: 'Networking',      url: 'networking'}
+- {name: 'Interesting',      url: 'interesting'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
